@@ -1,0 +1,8 @@
+lang:
+  "assemblyscript"
+buildCmd:
+  "npm run asbuild:optimized"
+watOutput:
+  "build/optimized.wat"
+wasmOutput:
+  "build/optimized.wasm"
